@@ -73,7 +73,7 @@
     height : 15px;
     background : green;
     border-radius : 25%;
-    box-shadow : 0 0 4px rgba(0, 0, 0, 0.685);
+    box-shadow : 0 0 5px rgba(0, 0, 0, 0.685);
     transition: 0.3s;
 }
 .snakePart:nth-child(odd) {
@@ -81,5 +81,5 @@
   }
   
   .snakePart:nth-child(even) {
-    background: rgb(12, 134, 12);
+    background: rgb(18, 168, 18);
   }
