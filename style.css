@@ -71,7 +71,7 @@
     position : absolute;
     width : 15px;
     height : 15px; 
-    border-radius : 25%;
+    border-radius : 24.9%;
     box-shadow : 0 0 10px rgba(0, 0, 0, 0.685);
     transition: 0.3s;
 }
