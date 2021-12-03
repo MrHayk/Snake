@@ -76,7 +76,7 @@
     transition: 0.3s;
 }
 .snakePart:nth-child(odd) {
-  background: yellow;
+  background: #ffd900;
 }
 
 .snakePart:nth-child(even) {
