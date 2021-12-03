@@ -36,8 +36,8 @@
     top: 0;
     left: 0;
     border-radius: 20%;
-    background-color: rgb(218, 214, 0);
-    box-shadow: 0 0 4px rgb(159, 170, 1);
+    background-color: rgb(0, 129, 0);
+    box-shadow: 0 0 4px rgb(2, 143, 2);
     width: 15px;
     height: 15px;
     z-index: 22;
@@ -70,15 +70,16 @@
 .snakePart{
     position : absolute;
     width : 15px;
-    height : 15px; 
-    border-radius : 24.9%;
+    height : 15px;
+    background : green;
+    border-radius : 25%;
     box-shadow : 0 0 10px rgba(0, 0, 0, 0.685);
     transition: 0.3s;
 }
 .snakePart:nth-child(odd) {
-  background: rgb(218, 214, 0);
-}
-
-.snakePart:nth-child(even) {
-  background: black;
-}
+    background: rgb(2, 143, 2);
+  }
+  
+  .snakePart:nth-child(even) {
+    background: rgb(3, 170, 3);
+  }
