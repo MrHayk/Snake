@@ -1,0 +1,24 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Old  Snake",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHayk/Snake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrHayk/Snake/issues"
+  },
+  "homepage": "https://github.com/MrHayk/Snake#readme",
+  "dependencies": {
+    "finalhandler": "^1.2.0",
+    "serve-static": "^1.15.0"
+  }
+}
